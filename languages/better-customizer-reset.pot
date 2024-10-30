@@ -1,0 +1,114 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Better Customizer Reset\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-03 08:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Domain: better-customizer-reset"
+
+#: includes/class-settings.php:172
+msgid " &mdash; active theme"
+msgstr ""
+
+#: includes/class-settings.php:215
+msgid ""
+"*We use Mailchimp as our marketing platform. By clicking above to subscribe, "
+"you acknowledge that your information will be transferred to Mailchimp for "
+"processing."
+msgstr ""
+
+#. Name of the plugin
+#: includes/class-settings.php:70
+msgid "Better Customizer Reset"
+msgstr ""
+
+#: better-customizer-reset.php:90 better-customizer-reset.php:102
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/class-settings.php:187
+msgid "Delete Selected Mods"
+msgstr ""
+
+#: includes/class-settings.php:69
+msgid "Getting Started with Better Customizer Reset"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.ilovewp.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.ilovewp.com/better-customizer-reset/"
+msgstr ""
+
+#: includes/class-settings.php:186
+msgid ""
+"I understand that performing this action will IRREVERSIBLY delete selected "
+"entries from my database. "
+msgstr ""
+
+#. Author of the plugin
+msgid "ILOVEWP.com"
+msgstr ""
+
+#: includes/class-settings.php:129
+msgid ""
+"On this page you can reset all theme customizer settings that are set using "
+"the theme_mods() method."
+msgstr ""
+
+#: better-customizer-reset.php:166
+msgid "Open Customizer Reset"
+msgstr ""
+
+#: includes/class-settings.php:111
+msgid "Settings Saved"
+msgstr ""
+
+#: includes/class-settings.php:213
+msgid "Subscribe"
+msgstr ""
+
+#: includes/class-settings.php:204
+msgid "Subscribe to the Newsletter"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The easiest way to inspect and delete customizer data (theme mods) saved by "
+"WordPress themes."
+msgstr ""
+
+#: includes/class-settings.php:147
+msgid "Theme"
+msgstr ""
+
+#: includes/class-settings.php:127
+msgid "Theme Customizer Reset"
+msgstr ""
+
+#: includes/class-settings.php:169
+msgid "Title"
+msgstr ""
+
+#: includes/class-settings.php:178
+msgid "View Theme Mods"
+msgstr ""
+
+#: includes/class-settings.php:206
+msgid ""
+"We send out the newsletter once every few weeks. It contains information "
+"about upcoming plugin and theme updates, special offers and other WordPress-"
+"related useful content."
+msgstr ""
